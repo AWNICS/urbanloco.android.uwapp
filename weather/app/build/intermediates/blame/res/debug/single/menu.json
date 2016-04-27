@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\android_files\\weather\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "D:\\android_files\\weather\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "E:\\project1\\project\\weather\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "E:\\project1\\project\\weather\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "D:\\awnics\\workspace\\android\\urbanloco.android.uwapp\\weather\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "D:\\awnics\\workspace\\android\\urbanloco.android.uwapp\\weather\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "E:\\project1\\weather\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "E:\\project1\\weather\\app\\src\\main\\res\\menu\\menu_main.xml"
+    }
+]

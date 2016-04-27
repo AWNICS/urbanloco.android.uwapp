@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">weather</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="OpenGoogleMAp">Open Map</string>
+    <string name="Search">Search</string>
+    <string name="Weather">Weather</string>
+    <string name="title_activity_weather">weatherActivity</string>
+</resources>
