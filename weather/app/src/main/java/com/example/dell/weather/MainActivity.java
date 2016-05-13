@@ -12,6 +12,7 @@ import android.widget.Button;
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
 
     private Button btnstart;
+   // private Button btnwthr;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -21,16 +22,17 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
         btnstart = (Button) findViewById(R.id.btnMaps);
         btnstart.setOnClickListener(this);
+//        btnwthr =(Button)findViewById(R.id.btnWeather);
+//        btnwthr.setOnClickListener(this);
+//        WeatherJsonParsing jsonParsing = new WeatherJsonParsing();
+//        jsonParsing.execute();
+//GetRawData theRawData = new GetRawData("http://api.openweathermap.org/data/2.5/weather?lat=35&lon=139&APPID=9c64cb2fc2376949721b91cc8abb76a4");
+//        theRawData.execute();
 
-//        FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
-//        fab.setOnClickListener(new View.OnClickListener() {
-//            @Override
-//            public void onClick(View view) {
-//                Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
-//                        .setAction("Action", null).show();
-//            }
-//        });
-    }
+//
+
+}
+
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
@@ -61,6 +63,11 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             case R.id.btnMaps:
                 intent = new Intent(MainActivity.this, MapsActivity.class);
                 break;
+
+//            case R.id.btnWeather:
+//                intent = new Intent(MainActivity.this,weatherActivity.class);
+//                break;
+
             default:
         }
         if(intent != null){

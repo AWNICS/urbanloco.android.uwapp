@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\awnics\\workspace\\android\\urbanloco.android.uwapp\\weather\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\place_autocomplete_fragment.xml",
+        "source": "D:\\awnics\\workspace\\android\\urbanloco.android.uwapp\\weather\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout-v21\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "E:\\project1\\project\\weather\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\place_autocomplete_fragment.xml",
+        "source": "E:\\project1\\project\\weather\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout-v21\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "D:\\android_files\\weather\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\place_autocomplete_fragment.xml",
+        "source": "D:\\android_files\\weather\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout-v21\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "E:\\project1\\weather\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\place_autocomplete_fragment.xml",
+        "source": "E:\\project1\\weather\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout-v21\\place_autocomplete_fragment.xml"
+    }
+]

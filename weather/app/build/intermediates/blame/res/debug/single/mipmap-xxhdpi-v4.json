@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\android_files\\weather\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_launcher.png",
+        "source": "D:\\android_files\\weather\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\project1\\weather\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_launcher.png",
+        "source": "E:\\project1\\weather\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\awnics\\workspace\\android\\urbanloco.android.uwapp\\weather\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_launcher.png",
+        "source": "D:\\awnics\\workspace\\android\\urbanloco.android.uwapp\\weather\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\project1\\project\\weather\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_launcher.png",
+        "source": "E:\\project1\\project\\weather\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    }
+]
